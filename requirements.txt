@@ -1,0 +1,18 @@
+pandas==2.3.3
+numpy==2.3.4
+scikit-learn==1.7.2
+imbalanced-learn==0.14.0
+lightgbm==4.6.0
+shap==0.50.0
+pymc==5.26.1
+arviz==0.22.0
+cloudpickle==3.1.2
+matplotlib==3.10.7
+seaborn==0.13.2
+graphviz==0.21
+jupyterlab==4.4.10
+pytest
+
+# Optional, only for re-sampling the Bayesian models on GPU:
+# numpyro
+# jax[cuda12]
